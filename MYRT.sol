@@ -117,8 +117,8 @@ contract MYRT_Token is ERC20Interface, Owned, SafeMath {
         name = "Tether MYRT";
         decimals = 2;
         _totalSupply = 10000000000;
-        balances[0x5A86f0cafD4ef3ba4f0344C138afcC84bd1ED222] = _totalSupply;
-        emit Transfer(address(0), 0x5A86f0cafD4ef3ba4f0344C138afcC84bd1ED222, _totalSupply);
+        balances[0x9cc2abb7a92e66e10e6aeafa6f9e92498a97d7d7] = _totalSupply;
+        emit Transfer(address(0), 0x9cc2abb7a92e66e10e6aeafa6f9e92498a97d7d7, _totalSupply);
     }
 
 

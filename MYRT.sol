@@ -3,7 +3,7 @@ pragma solidity ^0.4.24;
 // ----------------------------------------------------------------------------
 // 'MYRT' token contract
 //
-// Deployed to : 0x5A86f0cafD4ef3ba4f0344C138afcC84bd1ED222
+// Deployed to : 0x9cc2abb7a92e66e10e6aeafa6f9e92498a97d7d7
 // Symbol      : MYRT
 // Name        : Tether MYR
 // Total supply: 1000000
